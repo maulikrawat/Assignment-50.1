@@ -14,6 +14,8 @@ Filters the list to show only odd numbers when the "odd" button is clicked.
 
 Dynamically updates the input field to display the filtered results.
 
+
+
 Technologies Used :-
 
 HTML: For the basic structure and content of the page.
