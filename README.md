@@ -2,7 +2,7 @@ Even-Odd Number Sorter
 
 A simple web application that takes a comma-separated list of numbers and filters them to display either the even or odd numbers. This project demonstrates basic DOM manipulation with JavaScript.
 
-![Alt Text](<img width="644" height="283" alt="Image" src="https://github.com/user-attachments/assets/1d0a60fb-bbb4-4256-b1b9-01273a5e7180" />)
+![Alt Text](img width="644" height="283" alt="Image" src="https://github.com/user-attachments/assets/1d0a60fb-bbb4-4256-b1b9-01273a5e7180")
 Features :-
 
 Parses a string of comma-separated numbers from an input field.
